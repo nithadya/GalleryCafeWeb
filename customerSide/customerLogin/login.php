@@ -126,7 +126,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             height: 100vh;
             margin: 0;
             background-color:black;
-             background-image: url('../../assets/images/hero-banner-bg.png');
+             background-image: url('./assets/images/hero-banner-bg.png');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;

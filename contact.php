@@ -10,7 +10,7 @@
 <body style="background-color: black;">
     <div class="contact-container">
         <div class="contact-image">
-            <img src="/GalleryCafe/assets/images/customer-service.png">
+            <img src="./assets/images/customer-service.png">
             <!-- Add your background image here -->
         </div>
         <div class="contact-form">

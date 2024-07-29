@@ -92,7 +92,7 @@
               <ion-icon name="search-outline"></ion-icon>
             </button>
     
-            <a href="../GalleryCafe/customerSide/customerLogin/login.php" >
+            <a href="../customerSide/customerLogin/login.php" >
             <button class="btn btn-hover" style="color: white;">Login</button>
             </a>
     

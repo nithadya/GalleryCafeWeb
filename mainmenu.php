@@ -76,37 +76,37 @@
         <h2>Food Menu</h2>
         <div class="menu">
             <div class="menu-item">
-                <img src="../GalleryCafe/assets/images/food-menu-1.png" alt="Food Menu Item 1">
+                <img src="./assets/images/food-menu-1.png" alt="Food Menu Item 1">
                 <h3>Food Menu Item 1</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Non, quae.</p>
                 <p class="price">Rs:2500/=</p>
             </div>
             <div class="menu-item">
-                <img src="../GalleryCafe/assets/images/food-menu-2.png" alt="Food Menu Item 2">
+                <img src="./assets/images/food-menu-2.png" alt="Food Menu Item 2">
                 <h3>Food Menu Item 2</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Non, quae.</p>
                 <p class="price">Rs:2500/=</p>
             </div>
             <div class="menu-item">
-                <img src="../GalleryCafe/assets/images/food-menu-3.png" alt="Food Menu Item 3">
+                <img src="./assets/images/food-menu-3.png" alt="Food Menu Item 3">
                 <h3>Food Menu Item 3</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Non, quae.</p>
                 <p class="price">Rs:2700/=</p>
             </div>
             <div class="menu-item">
-                <img src="../GalleryCafe/assets/images/food-menu-4.png" alt="Food Menu Item 4">
+                <img src="./assets/images/food-menu-4.png" alt="Food Menu Item 4">
                 <h3>Food Menu Item 4</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Non, quae.</p>
                 <p class="price">Rs:2200/=</p>
             </div>
             <div class="menu-item">
-                <img src="../GalleryCafe/assets/images/food-menu-6.png" alt="Food Menu Item 5">
+                <img src="./assets/images/food-menu-6.png" alt="Food Menu Item 5">
                 <h3>Food Menu Item 5</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Non, quae.</p>
                 <p class="price">Rs:1500/=</p>
             </div>
             <div class="menu-item">
-                <img src="../GalleryCafe/assets/images/food-menu-1.png" alt="Food Menu Item 6">
+                <img src="./assets/images/food-menu-1.png" alt="Food Menu Item 6">
                 <h3>Food Menu Item 6</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Non, quae.</p>
                 <p class="price">Rs:1800/=</p>

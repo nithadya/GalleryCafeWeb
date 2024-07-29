@@ -1,4 +1,4 @@
-<?php include '../GalleryCafe/includes/header.php'; ?>
+<?php include '../GalleryCafeWeb/includes/header.php'; ?>
  
    <!-- 
     - #SEARCH BOX

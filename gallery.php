@@ -4,7 +4,7 @@
         <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_5terre.jpg">
-      <img src="../GalleryCafe/assets/images/food-menu-1.png" alt="Cinque Terre">
+      <img src="./assets/images/food-menu-1.png" alt="Cinque Terre">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -13,7 +13,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_forest.jpg">
-      <img src="../GalleryCafe/assets/images/food-menu-2.png" alt="Forest">
+      <img src="./assets/images/food-menu-2.png" alt="Forest">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -22,7 +22,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_lights.jpg">
-      <img src="../GalleryCafe/assets/images/food-menu-3.png" alt="Northern Lights">
+      <img src="./assets/images/food-menu-3.png" alt="Northern Lights">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -31,7 +31,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_mountains.jpg">
-      <img src="../GalleryCafe/assets/images/food-menu-4.png" alt="Mountains">
+      <img src="./assets/images/food-menu-4.png" alt="Mountains">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
