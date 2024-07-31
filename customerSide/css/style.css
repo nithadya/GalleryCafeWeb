@@ -82,9 +82,12 @@ p {
 	height: auto;
 }
 #header .header {
-	min-height: 8vh;
-	background-color: rgba(31, 30, 30, 0.24);
-	transition: 0.3s ease background-color;
+	min-height: 10vh;
+	background-color: rgb(173, 43, 43);
+	
+}
+#header .logo{
+	color: white;
 }
 #header .nav-bar {
 	display: flex;
@@ -94,6 +97,11 @@ p {
 	height: 100%;
 	max-width: 1300px;
 	padding: 0 10px;
+}
+#header .nav-list{
+	display: flex;
+	justify-items: center;
+	justify-content: center;
 }
 #header .nav-list ul {
 	list-style: none;
@@ -143,9 +151,16 @@ p {
 #header .nav-list ul li:hover a {
 	color: crimson;
 }
+
+#header .navbar{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+
+}
 #header .hamburger {
 	height: 60px;
-	width: 60px;
+	width: 90px;
 	display: inline-block;
 	border: 3px solid white;
 	border-radius: 50%;
@@ -157,6 +172,7 @@ p {
 	cursor: pointer;
 	transform: scale(0.8);
 	margin-right: 20px;
+	
 }
 #header .hamburger:after {
 	position: absolute;

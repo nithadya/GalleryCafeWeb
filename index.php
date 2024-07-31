@@ -1,4 +1,4 @@
-<?php include '../GalleryCafeWeb/includes/header.php'; ?>
+<?php include './includes/header.php'; ?>
  
    <!-- 
     - #SEARCH BOX
@@ -263,7 +263,7 @@
               invasion of the 1120s, while it is also known that many restaurants were run by families.
             </p>
 
-            <button class="btn btn-hover">Order Now</button>
+            <button class="btn btn-hover"><a href="./customerSide/home/menu.php">Order Now</a></button>
           </div>
 
           <figure class="cta-banner">
